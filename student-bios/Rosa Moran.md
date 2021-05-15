@@ -3,7 +3,8 @@ Rosa Moran
 
 ![image](https://user-images.githubusercontent.com/78501106/114370941-4f17a180-9b80-11eb-982d-742df5afd136.png)
 
-Currenly i am learning 
+
+Currenly I am learning. 
 
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +43,7 @@ Currenly i am learning
 1. [Link Twitter](http://twitter.com/RosaMor28853822)
 2. [link Instagram](https://www.instagram.com/ros_darkness/) 
 3. [Link Linkedin](https://www.linkedin.com/in/rosa-moran-a2b9a1151/)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/RosaMoran)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/ros_darkness/)
